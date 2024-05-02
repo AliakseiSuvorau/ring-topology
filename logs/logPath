@@ -1,0 +1,2439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-12-03T14:14:46.098848688Z</date>
+  <millis>1701612886098</millis>
+  <nanos>848688</nanos>
+  <sequence>0</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logStartRing</method>
+  <thread>1</thread>
+  <message>[19377341 ns]		Ring processor was created with 10 nodes.
+Information packages in each node: 3.
+Coordinator index: 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.141932626Z</date>
+  <millis>1701612886141</millis>
+  <nanos>932626</nanos>
+  <sequence>2</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>27</thread>
+  <message>[64754794 ns]		Package 15 with destination node 7 was transferred from node 5 to node 6.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.142421023Z</date>
+  <millis>1701612886142</millis>
+  <nanos>421023</nanos>
+  <sequence>8</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[65116439 ns]		Package 21 with destination node 8 was transferred from node 7 to node 8.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.141932446Z</date>
+  <millis>1701612886141</millis>
+  <nanos>932446</nanos>
+  <sequence>3</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>24</thread>
+  <message>[64516997 ns]		Package 6 with destination node 7 was transferred from node 2 to node 3.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.141932716Z</date>
+  <millis>1701612886141</millis>
+  <nanos>932716</nanos>
+  <sequence>1</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[64955974 ns]		Package 18 with destination node 9 was transferred from node 6 to node 7.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.141981035Z</date>
+  <millis>1701612886141</millis>
+  <nanos>981035</nanos>
+  <sequence>7</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>25</thread>
+  <message>[64578070 ns]		Package 9 with destination node 0 was transferred from node 3 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.141933838Z</date>
+  <millis>1701612886141</millis>
+  <nanos>933838</nanos>
+  <sequence>5</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>23</thread>
+  <message>[64585754 ns]		Package 3 with destination node 1 was transferred from node 1 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.141977418Z</date>
+  <millis>1701612886141</millis>
+  <nanos>977418</nanos>
+  <sequence>6</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>22</thread>
+  <message>[64517228 ns]		Package 0 with destination node 9 was transferred from node 0 to node 1.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.144853794Z</date>
+  <millis>1701612886144</millis>
+  <nanos>853794</nanos>
+  <sequence>13</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>24</thread>
+  <message>[73370478 ns]		Package 7 with destination node 2 was transferred from node 2 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.141932466Z</date>
+  <millis>1701612886141</millis>
+  <nanos>932466</nanos>
+  <sequence>4</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>26</thread>
+  <message>[64603296 ns]		Package 12 with destination node 2 was transferred from node 4 to node 5.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.142428397Z</date>
+  <millis>1701612886142</millis>
+  <nanos>428397</nanos>
+  <sequence>9</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>31</thread>
+  <message>[65225069 ns]		Package 27 with destination node 1 was transferred from node 9 to node 0.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.142866212Z</date>
+  <millis>1701612886142</millis>
+  <nanos>866212</nanos>
+  <sequence>10</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[65151473 ns]		Package 24 with destination node 9 was transferred from node 8 to node 9.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.144088879Z</date>
+  <millis>1701612886144</millis>
+  <nanos>88879</nanos>
+  <sequence>11</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>27</thread>
+  <message>[72607976 ns]		Package 16 with destination node 3 was transferred from node 5 to node 6.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.144353816Z</date>
+  <millis>1701612886144</millis>
+  <nanos>353816</nanos>
+  <sequence>12</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[72883393 ns]		Package 22 with destination node 0 was transferred from node 7 to node 8.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.147225423Z</date>
+  <millis>1701612886147</millis>
+  <nanos>225423</nanos>
+  <sequence>17</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>26</thread>
+  <message>[75724905 ns]		Package 13 with destination node 4 was transferred from node 4 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.145070613Z</date>
+  <millis>1701612886145</millis>
+  <nanos>70613</nanos>
+  <sequence>14</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[73596022 ns]		Package 19 with destination node 6 was transferred from node 6 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.145628258Z</date>
+  <millis>1701612886145</millis>
+  <nanos>628258</nanos>
+  <sequence>15</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>25</thread>
+  <message>[74141745 ns]		Package 10 with destination node 9 was transferred from node 3 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.146257664Z</date>
+  <millis>1701612886146</millis>
+  <nanos>257664</nanos>
+  <sequence>16</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>22</thread>
+  <message>[74764149 ns]		Package 1 with destination node 6 was transferred from node 0 to node 1.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.147540662Z</date>
+  <millis>1701612886147</millis>
+  <nanos>540662</nanos>
+  <sequence>18</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>31</thread>
+  <message>[76053048 ns]		Package 28 with destination node 8 was transferred from node 9 to node 0.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.148044058Z</date>
+  <millis>1701612886148</millis>
+  <nanos>44058</nanos>
+  <sequence>19</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[76544541 ns]		Package 25 with destination node 6 was transferred from node 8 to node 9.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.148108366Z</date>
+  <millis>1701612886148</millis>
+  <nanos>108366</nanos>
+  <sequence>20</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>24</thread>
+  <message>[74203940 ns]		Package 7 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.148111131Z</date>
+  <millis>1701612886148</millis>
+  <nanos>111131</nanos>
+  <sequence>21</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>23</thread>
+  <message>[73253232 ns]		Package 3 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.148220512Z</date>
+  <millis>1701612886148</millis>
+  <nanos>220512</nanos>
+  <sequence>22</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>26</thread>
+  <message>[76758665 ns]		Package 13 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.148457978Z</date>
+  <millis>1701612886148</millis>
+  <nanos>457978</nanos>
+  <sequence>23</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>27</thread>
+  <message>[76974361 ns]		Package 17 with destination node 8 was transferred from node 5 to node 6.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.148576736Z</date>
+  <millis>1701612886148</millis>
+  <nanos>576736</nanos>
+  <sequence>24</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>28</thread>
+  <message>[77115751 ns]		Package 19 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.148663025Z</date>
+  <millis>1701612886148</millis>
+  <nanos>663025</nanos>
+  <sequence>25</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[77198924 ns]		Package 23 with destination node 1 was transferred from node 7 to node 8.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.150095187Z</date>
+  <millis>1701612886150</millis>
+  <nanos>95187</nanos>
+  <sequence>26</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>25</thread>
+  <message>[78606070 ns]		Package 11 with destination node 8 was transferred from node 3 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.150386963Z</date>
+  <millis>1701612886150</millis>
+  <nanos>386963</nanos>
+  <sequence>27</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>22</thread>
+  <message>[78912453 ns]		Package 2 with destination node 1 was transferred from node 0 to node 1.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.150959025Z</date>
+  <millis>1701612886150</millis>
+  <nanos>959025</nanos>
+  <sequence>28</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>31</thread>
+  <message>[79484164 ns]		Package 29 with destination node 8 was transferred from node 9 to node 0.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.151091408Z</date>
+  <millis>1701612886151</millis>
+  <nanos>91408</nanos>
+  <sequence>29</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[79616457 ns]		Package 26 with destination node 9 was transferred from node 8 to node 9.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.151320749Z</date>
+  <millis>1701612886151</millis>
+  <nanos>320749</nanos>
+  <sequence>30</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>24</thread>
+  <message>[79857920 ns]		Package 8 with destination node 0 was transferred from node 2 to node 3.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.151618006Z</date>
+  <millis>1701612886151</millis>
+  <nanos>618006</nanos>
+  <sequence>31</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>23</thread>
+  <message>[80133707 ns]		Package 4 with destination node 8 was transferred from node 1 to node 2.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.151904933Z</date>
+  <millis>1701612886151</millis>
+  <nanos>904933</nanos>
+  <sequence>32</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>26</thread>
+  <message>[80432617 ns]		Package 14 with destination node 8 was transferred from node 4 to node 5.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.152135046Z</date>
+  <millis>1701612886152</millis>
+  <nanos>135046</nanos>
+  <sequence>33</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>27</thread>
+  <message>[80663000 ns]		Package 12 with destination node 2 was transferred from node 5 to node 6.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.152403710Z</date>
+  <millis>1701612886152</millis>
+  <nanos>403710</nanos>
+  <sequence>34</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[80922497 ns]		Package 20 with destination node 9 was transferred from node 6 to node 7.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.152636227Z</date>
+  <millis>1701612886152</millis>
+  <nanos>636227</nanos>
+  <sequence>35</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[81174811 ns]		Package 18 with destination node 9 was transferred from node 7 to node 8.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.152865679Z</date>
+  <millis>1701612886152</millis>
+  <nanos>865679</nanos>
+  <sequence>36</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>25</thread>
+  <message>[81404983 ns]		Package 6 with destination node 7 was transferred from node 3 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.153154529Z</date>
+  <millis>1701612886153</millis>
+  <nanos>154529</nanos>
+  <sequence>37</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>22</thread>
+  <message>[81679147 ns]		Package 27 with destination node 1 was transferred from node 0 to node 1.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.153433352Z</date>
+  <millis>1701612886153</millis>
+  <nanos>433352</nanos>
+  <sequence>38</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>31</thread>
+  <message>[81963800 ns]		Package 24 with destination node 9 was transferred from node 9 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.153823018Z</date>
+  <millis>1701612886153</millis>
+  <nanos>823018</nanos>
+  <sequence>39</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[82330294 ns]		Package 21 with destination node 8 was transferred from node 8 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.154868689Z</date>
+  <millis>1701612886154</millis>
+  <nanos>868689</nanos>
+  <sequence>44</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>27</thread>
+  <message>[83404869 ns]		Package 14 with destination node 8 was transferred from node 5 to node 6.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.153957615Z</date>
+  <millis>1701612886153</millis>
+  <nanos>957615</nanos>
+  <sequence>40</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>24</thread>
+  <message>[82490879 ns]		Package 4 with destination node 8 was transferred from node 2 to node 3.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.154255533Z</date>
+  <millis>1701612886154</millis>
+  <nanos>255533</nanos>
+  <sequence>41</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>23</thread>
+  <message>[82786332 ns]		Package 5 with destination node 2 was transferred from node 1 to node 2.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.154453206Z</date>
+  <millis>1701612886154</millis>
+  <nanos>453206</nanos>
+  <sequence>42</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>26</thread>
+  <message>[82975560 ns]		Package 9 with destination node 0 was transferred from node 4 to node 5.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.154842622Z</date>
+  <millis>1701612886154</millis>
+  <nanos>842622</nanos>
+  <sequence>43</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>31</thread>
+  <message>[83372700 ns]		Package 24 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.155123438Z</date>
+  <millis>1701612886155</millis>
+  <nanos>123438</nanos>
+  <sequence>45</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[83661019 ns]		Package 15 with destination node 7 was transferred from node 6 to node 7.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.155127044Z</date>
+  <millis>1701612886155</millis>
+  <nanos>127044</nanos>
+  <sequence>46</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>30</thread>
+  <message>[83663835 ns]		Package 21 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.155314839Z</date>
+  <millis>1701612886155</millis>
+  <nanos>314839</nanos>
+  <sequence>47</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[83843054 ns]		Package 20 with destination node 9 was transferred from node 7 to node 8.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.155497836Z</date>
+  <millis>1701612886155</millis>
+  <nanos>497836</nanos>
+  <sequence>48</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>25</thread>
+  <message>[84034586 ns]		Package 8 with destination node 0 was transferred from node 3 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.155738919Z</date>
+  <millis>1701612886155</millis>
+  <nanos>738919</nanos>
+  <sequence>49</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>22</thread>
+  <message>[84254740 ns]		Package 28 with destination node 8 was transferred from node 0 to node 1.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.157056360Z</date>
+  <millis>1701612886157</millis>
+  <nanos>56360</nanos>
+  <sequence>53</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>26</thread>
+  <message>[85583032 ns]		Package 10 with destination node 9 was transferred from node 4 to node 5.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.156453111Z</date>
+  <millis>1701612886156</millis>
+  <nanos>453111</nanos>
+  <sequence>50</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>27</thread>
+  <message>[84969113 ns]		Package 9 with destination node 0 was transferred from node 5 to node 6.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.156650374Z</date>
+  <millis>1701612886156</millis>
+  <nanos>650374</nanos>
+  <sequence>51</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>24</thread>
+  <message>[85182245 ns]		Package 5 with destination node 2 was transferred from node 2 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.156839381Z</date>
+  <millis>1701612886156</millis>
+  <nanos>839381</nanos>
+  <sequence>52</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>23</thread>
+  <message>[85367986 ns]		Package 0 with destination node 9 was transferred from node 1 to node 2.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.157932250Z</date>
+  <millis>1701612886157</millis>
+  <nanos>932250</nanos>
+  <sequence>56</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[86451448 ns]		Package 22 with destination node 0 was transferred from node 8 to node 9.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.157230740Z</date>
+  <millis>1701612886157</millis>
+  <nanos>230740</nanos>
+  <sequence>54</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>31</thread>
+  <message>[85762071 ns]		Package 25 with destination node 6 was transferred from node 9 to node 0.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.157385475Z</date>
+  <millis>1701612886157</millis>
+  <nanos>385475</nanos>
+  <sequence>55</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[85919420 ns]		Package 16 with destination node 3 was transferred from node 6 to node 7.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.157983063Z</date>
+  <millis>1701612886157</millis>
+  <nanos>983063</nanos>
+  <sequence>57</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>24</thread>
+  <message>[86521065 ns]		Package 5 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.158114915Z</date>
+  <millis>1701612886158</millis>
+  <nanos>114915</nanos>
+  <sequence>58</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[86641347 ns]		Package 15 with destination node 7 was transferred from node 7 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.158273166Z</date>
+  <millis>1701612886158</millis>
+  <nanos>273166</nanos>
+  <sequence>59</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>25</thread>
+  <message>[86805669 ns]		Package 4 with destination node 8 was transferred from node 3 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.158567367Z</date>
+  <millis>1701612886158</millis>
+  <nanos>567367</nanos>
+  <sequence>60</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>22</thread>
+  <message>[87082648 ns]		Package 29 with destination node 8 was transferred from node 0 to node 1.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.159642152Z</date>
+  <millis>1701612886159</millis>
+  <nanos>642152</nanos>
+  <sequence>64</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[88160559 ns]		Package 23 with destination node 1 was transferred from node 8 to node 9.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.159863118Z</date>
+  <millis>1701612886159</millis>
+  <nanos>863118</nanos>
+  <sequence>65</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>31</thread>
+  <message>[88390732 ns]		Package 26 with destination node 9 was transferred from node 9 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.158730436Z</date>
+  <millis>1701612886158</millis>
+  <nanos>730436</nanos>
+  <sequence>61</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>26</thread>
+  <message>[87262739 ns]		Package 11 with destination node 8 was transferred from node 4 to node 5.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.158880833Z</date>
+  <millis>1701612886158</millis>
+  <nanos>880833</nanos>
+  <sequence>62</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>27</thread>
+  <message>[87415449 ns]		Package 10 with destination node 9 was transferred from node 5 to node 6.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.159334907Z</date>
+  <millis>1701612886159</millis>
+  <nanos>334907</nanos>
+  <sequence>63</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>23</thread>
+  <message>[87851250 ns]		Package 1 with destination node 6 was transferred from node 1 to node 2.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.159898463Z</date>
+  <millis>1701612886159</millis>
+  <nanos>898463</nanos>
+  <sequence>66</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>29</thread>
+  <message>[88429843 ns]		Package 15 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.160127614Z</date>
+  <millis>1701612886160</millis>
+  <nanos>127614</nanos>
+  <sequence>67</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[88655839 ns]		Package 17 with destination node 8 was transferred from node 6 to node 7.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.161252682Z</date>
+  <millis>1701612886161</millis>
+  <nanos>252682</nanos>
+  <sequence>70</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[89763444 ns]		Package 18 with destination node 9 was transferred from node 8 to node 9.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.160467789Z</date>
+  <millis>1701612886160</millis>
+  <nanos>467789</nanos>
+  <sequence>68</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>24</thread>
+  <message>[88993599 ns]		Package 0 with destination node 9 was transferred from node 2 to node 3.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.160494999Z</date>
+  <millis>1701612886160</millis>
+  <nanos>494999</nanos>
+  <sequence>69</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>31</thread>
+  <message>[89035657 ns]		Package 26 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.161956916Z</date>
+  <millis>1701612886161</millis>
+  <nanos>956916</nanos>
+  <sequence>73</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>26</thread>
+  <message>[90476495 ns]		Package 6 with destination node 7 was transferred from node 4 to node 5.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.161410051Z</date>
+  <millis>1701612886161</millis>
+  <nanos>410051</nanos>
+  <sequence>71</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>22</thread>
+  <message>[89945699 ns]		Package 25 with destination node 6 was transferred from node 0 to node 1.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.161551621Z</date>
+  <millis>1701612886161</millis>
+  <nanos>551621</nanos>
+  <sequence>72</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>25</thread>
+  <message>[90072592 ns]		Package 0 with destination node 9 was transferred from node 3 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.162173424Z</date>
+  <millis>1701612886162</millis>
+  <nanos>173424</nanos>
+  <sequence>74</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>27</thread>
+  <message>[90647559 ns]		Package 11 with destination node 8 was transferred from node 5 to node 6.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.162385834Z</date>
+  <millis>1701612886162</millis>
+  <nanos>385834</nanos>
+  <sequence>75</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>23</thread>
+  <message>[90912075 ns]		Package 2 with destination node 1 was transferred from node 1 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.162601601Z</date>
+  <millis>1701612886162</millis>
+  <nanos>601601</nanos>
+  <sequence>76</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[91126790 ns]		Package 12 with destination node 2 was transferred from node 6 to node 7.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.163719365Z</date>
+  <millis>1701612886163</millis>
+  <nanos>719365</nanos>
+  <sequence>81</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>23</thread>
+  <message>[92243632 ns]		Package 2 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.162853614Z</date>
+  <millis>1701612886162</millis>
+  <nanos>853614</nanos>
+  <sequence>77</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[91382289 ns]		Package 16 with destination node 3 was transferred from node 7 to node 8.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.163238261Z</date>
+  <millis>1701612886163</millis>
+  <nanos>238261</nanos>
+  <sequence>78</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[91769541 ns]		Package 20 with destination node 9 was transferred from node 8 to node 9.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.163498389Z</date>
+  <millis>1701612886163</millis>
+  <nanos>498389</nanos>
+  <sequence>79</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>24</thread>
+  <message>[92038736 ns]		Package 1 with destination node 6 was transferred from node 2 to node 3.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.163667129Z</date>
+  <millis>1701612886163</millis>
+  <nanos>667129</nanos>
+  <sequence>80</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>31</thread>
+  <message>[92207736 ns]		Package 22 with destination node 0 was transferred from node 9 to node 0.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.163802318Z</date>
+  <millis>1701612886163</millis>
+  <nanos>802318</nanos>
+  <sequence>82</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>26</thread>
+  <message>[92340781 ns]		Package 8 with destination node 0 was transferred from node 4 to node 5.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.164573896Z</date>
+  <millis>1701612886164</millis>
+  <nanos>573896</nanos>
+  <sequence>83</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>27</thread>
+  <message>[93081913 ns]		Package 6 with destination node 7 was transferred from node 5 to node 6.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.164575198Z</date>
+  <millis>1701612886164</millis>
+  <nanos>575198</nanos>
+  <sequence>84</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>25</thread>
+  <message>[93109854 ns]		Package 1 with destination node 6 was transferred from node 3 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.164760579Z</date>
+  <millis>1701612886164</millis>
+  <nanos>760579</nanos>
+  <sequence>85</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>22</thread>
+  <message>[93289404 ns]		Package 22 with destination node 0 was transferred from node 0 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.164928918Z</date>
+  <millis>1701612886164</millis>
+  <nanos>928918</nanos>
+  <sequence>86</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[93465768 ns]		Package 14 with destination node 8 was transferred from node 6 to node 7.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.165244037Z</date>
+  <millis>1701612886165</millis>
+  <nanos>244037</nanos>
+  <sequence>87</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>23</thread>
+  <message>[93773284 ns]		Package 27 with destination node 1 was transferred from node 1 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.165593049Z</date>
+  <millis>1701612886165</millis>
+  <nanos>593049</nanos>
+  <sequence>88</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[94126964 ns]		Package 16 with destination node 3 was transferred from node 8 to node 9.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.165772739Z</date>
+  <millis>1701612886165</millis>
+  <nanos>772739</nanos>
+  <sequence>90</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>22</thread>
+  <message>[94309760 ns]		Package 22 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.166193743Z</date>
+  <millis>1701612886166</millis>
+  <nanos>193743</nanos>
+  <sequence>93</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>23</thread>
+  <message>[94724862 ns]		Package 27 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.165750258Z</date>
+  <millis>1701612886165</millis>
+  <nanos>750258</nanos>
+  <sequence>89</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[94000591 ns]		Package 17 with destination node 8 was transferred from node 7 to node 8.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.165920280Z</date>
+  <millis>1701612886165</millis>
+  <nanos>920280</nanos>
+  <sequence>91</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>31</thread>
+  <message>[94452582 ns]		Package 23 with destination node 1 was transferred from node 9 to node 0.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.166028429Z</date>
+  <millis>1701612886166</millis>
+  <nanos>28429</nanos>
+  <sequence>92</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>26</thread>
+  <message>[94568866 ns]		Package 4 with destination node 8 was transferred from node 4 to node 5.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.166423855Z</date>
+  <millis>1701612886166</millis>
+  <nanos>423855</nanos>
+  <sequence>94</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>27</thread>
+  <message>[94953933 ns]		Package 8 with destination node 0 was transferred from node 5 to node 6.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.167049385Z</date>
+  <millis>1701612886167</millis>
+  <nanos>49385</nanos>
+  <sequence>95</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[95555840 ns]		Package 9 with destination node 0 was transferred from node 6 to node 7.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.167491658Z</date>
+  <millis>1701612886167</millis>
+  <nanos>491658</nanos>
+  <sequence>96</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[96007249 ns]		Package 17 with destination node 8 was transferred from node 8 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.167668212Z</date>
+  <millis>1701612886167</millis>
+  <nanos>668212</nanos>
+  <sequence>97</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>22</thread>
+  <message>[96203470 ns]		Package 23 with destination node 1 was transferred from node 0 to node 1.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.167974084Z</date>
+  <millis>1701612886167</millis>
+  <nanos>974084</nanos>
+  <sequence>98</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>23</thread>
+  <message>[96491199 ns]		Package 28 with destination node 8 was transferred from node 1 to node 2.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.168327153Z</date>
+  <millis>1701612886168</millis>
+  <nanos>327153</nanos>
+  <sequence>99</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[96865997 ns]		Package 12 with destination node 2 was transferred from node 7 to node 8.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.169361123Z</date>
+  <millis>1701612886169</millis>
+  <nanos>361123</nanos>
+  <sequence>105</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[97898495 ns]		Package 10 with destination node 9 was transferred from node 6 to node 7.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.168567405Z</date>
+  <millis>1701612886168</millis>
+  <nanos>567405</nanos>
+  <sequence>100</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>31</thread>
+  <message>[97087775 ns]		Package 18 with destination node 9 was transferred from node 9 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.168707542Z</date>
+  <millis>1701612886168</millis>
+  <nanos>707542</nanos>
+  <sequence>101</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>26</thread>
+  <message>[97244763 ns]		Package 0 with destination node 9 was transferred from node 4 to node 5.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.168925934Z</date>
+  <millis>1701612886168</millis>
+  <nanos>925934</nanos>
+  <sequence>102</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>27</thread>
+  <message>[97459728 ns]		Package 4 with destination node 8 was transferred from node 5 to node 6.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.170207900Z</date>
+  <millis>1701612886170</millis>
+  <nanos>207900</nanos>
+  <sequence>107</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>25</thread>
+  <message>[98714615 ns]		Package 28 with destination node 8 was transferred from node 3 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.169042458Z</date>
+  <millis>1701612886169</millis>
+  <nanos>42458</nanos>
+  <sequence>103</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>24</thread>
+  <message>[97570141 ns]		Package 28 with destination node 8 was transferred from node 2 to node 3.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.169344613Z</date>
+  <millis>1701612886169</millis>
+  <nanos>344613</nanos>
+  <sequence>104</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>30</thread>
+  <message>[97879851 ns]		Package 17 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.170017640Z</date>
+  <millis>1701612886170</millis>
+  <nanos>17640</nanos>
+  <sequence>106</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>31</thread>
+  <message>[98545624 ns]		Package 18 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.170214472Z</date>
+  <millis>1701612886170</millis>
+  <nanos>214472</nanos>
+  <sequence>108</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>23</thread>
+  <message>[98737647 ns]		Package 29 with destination node 8 was transferred from node 1 to node 2.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.170957076Z</date>
+  <millis>1701612886170</millis>
+  <nanos>957076</nanos>
+  <sequence>110</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[99466576 ns]		Package 14 with destination node 8 was transferred from node 7 to node 8.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.170957146Z</date>
+  <millis>1701612886170</millis>
+  <nanos>957146</nanos>
+  <sequence>109</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[99472107 ns]		Package 11 with destination node 8 was transferred from node 6 to node 7.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.171385293Z</date>
+  <millis>1701612886171</millis>
+  <nanos>385293</nanos>
+  <sequence>111</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>26</thread>
+  <message>[99909581 ns]		Package 1 with destination node 6 was transferred from node 4 to node 5.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.171738683Z</date>
+  <millis>1701612886171</millis>
+  <nanos>738683</nanos>
+  <sequence>112</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>27</thread>
+  <message>[100268330 ns]		Package 0 with destination node 9 was transferred from node 5 to node 6.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.171979355Z</date>
+  <millis>1701612886171</millis>
+  <nanos>979355</nanos>
+  <sequence>113</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>24</thread>
+  <message>[100509773 ns]		Package 29 with destination node 8 was transferred from node 2 to node 3.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.172508457Z</date>
+  <millis>1701612886172</millis>
+  <nanos>508457</nanos>
+  <sequence>115</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>31</thread>
+  <message>[101024019 ns]		Package 20 with destination node 9 was transferred from node 9 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.172354975Z</date>
+  <millis>1701612886172</millis>
+  <nanos>354975</nanos>
+  <sequence>114</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[100867681 ns]		Package 12 with destination node 2 was transferred from node 8 to node 9.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.172620293Z</date>
+  <millis>1701612886172</millis>
+  <nanos>620293</nanos>
+  <sequence>116</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>23</thread>
+  <message>[101159237 ns]		Package 25 with destination node 6 was transferred from node 1 to node 2.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.172828836Z</date>
+  <millis>1701612886172</millis>
+  <nanos>828836</nanos>
+  <sequence>117</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[101352031 ns]		Package 6 with destination node 7 was transferred from node 6 to node 7.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.172971428Z</date>
+  <millis>1701612886172</millis>
+  <nanos>971428</nanos>
+  <sequence>118</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>31</thread>
+  <message>[101506966 ns]		Package 20 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.173469884Z</date>
+  <millis>1701612886173</millis>
+  <nanos>469884</nanos>
+  <sequence>122</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>27</thread>
+  <message>[101989803 ns]		Package 1 with destination node 6 was transferred from node 5 to node 6.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.173024646Z</date>
+  <millis>1701612886173</millis>
+  <nanos>24646</nanos>
+  <sequence>119</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>26</thread>
+  <message>[101562047 ns]		Package 28 with destination node 8 was transferred from node 4 to node 5.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.173064319Z</date>
+  <millis>1701612886173</millis>
+  <nanos>64319</nanos>
+  <sequence>120</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>25</thread>
+  <message>[101596501 ns]		Package 29 with destination node 8 was transferred from node 3 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.173230865Z</date>
+  <millis>1701612886173</millis>
+  <nanos>230865</nanos>
+  <sequence>121</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[101769619 ns]		Package 9 with destination node 0 was transferred from node 7 to node 8.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.173695038Z</date>
+  <millis>1701612886173</millis>
+  <nanos>695038</nanos>
+  <sequence>123</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>24</thread>
+  <message>[102230356 ns]		Package 25 with destination node 6 was transferred from node 2 to node 3.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.174498505Z</date>
+  <millis>1701612886174</millis>
+  <nanos>498505</nanos>
+  <sequence>124</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[102992737 ns]		Package 14 with destination node 8 was transferred from node 8 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.174638191Z</date>
+  <millis>1701612886174</millis>
+  <nanos>638191</nanos>
+  <sequence>125</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>23</thread>
+  <message>[103163050 ns]		Package 23 with destination node 1 was transferred from node 1 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.174877321Z</date>
+  <millis>1701612886174</millis>
+  <nanos>877321</nanos>
+  <sequence>126</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[103393543 ns]		Package 8 with destination node 0 was transferred from node 6 to node 7.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.175126809Z</date>
+  <millis>1701612886175</millis>
+  <nanos>126809</nanos>
+  <sequence>128</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>23</thread>
+  <message>[103661706 ns]		Package 23 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.175018100Z</date>
+  <millis>1701612886175</millis>
+  <nanos>18100</nanos>
+  <sequence>127</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>31</thread>
+  <message>[103544691 ns]		Package 16 with destination node 3 was transferred from node 9 to node 0.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.176127919Z</date>
+  <millis>1701612886176</millis>
+  <nanos>127919</nanos>
+  <sequence>134</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>22</thread>
+  <message>[104647818 ns]		Package 16 with destination node 3 was transferred from node 0 to node 1.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.175141316Z</date>
+  <millis>1701612886175</millis>
+  <nanos>141316</nanos>
+  <sequence>129</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>27</thread>
+  <message>[103676083 ns]		Package 28 with destination node 8 was transferred from node 5 to node 6.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.175307201Z</date>
+  <millis>1701612886175</millis>
+  <nanos>307201</nanos>
+  <sequence>130</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>26</thread>
+  <message>[103840745 ns]		Package 29 with destination node 8 was transferred from node 4 to node 5.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.175347655Z</date>
+  <millis>1701612886175</millis>
+  <nanos>347655</nanos>
+  <sequence>131</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>30</thread>
+  <message>[103886419 ns]		Package 14 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.175736149Z</date>
+  <millis>1701612886175</millis>
+  <nanos>736149</nanos>
+  <sequence>132</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>25</thread>
+  <message>[104241572 ns]		Package 25 with destination node 6 was transferred from node 3 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.175901323Z</date>
+  <millis>1701612886175</millis>
+  <nanos>901323</nanos>
+  <sequence>133</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[104437151 ns]		Package 10 with destination node 9 was transferred from node 7 to node 8.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.176815934Z</date>
+  <millis>1701612886176</millis>
+  <nanos>815934</nanos>
+  <sequence>135</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[105324262 ns]		Package 4 with destination node 8 was transferred from node 6 to node 7.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.177278013Z</date>
+  <millis>1701612886177</millis>
+  <nanos>278013</nanos>
+  <sequence>137</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>31</thread>
+  <message>[105815294 ns]		Package 12 with destination node 2 was transferred from node 9 to node 0.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.177278153Z</date>
+  <millis>1701612886177</millis>
+  <nanos>278153</nanos>
+  <sequence>136</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>23</thread>
+  <message>[105784137 ns]		Package 16 with destination node 3 was transferred from node 1 to node 2.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.178153341Z</date>
+  <millis>1701612886178</millis>
+  <nanos>153341</nanos>
+  <sequence>138</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>27</thread>
+  <message>[106669905 ns]		Package 29 with destination node 8 was transferred from node 5 to node 6.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.178365932Z</date>
+  <millis>1701612886178</millis>
+  <nanos>365932</nanos>
+  <sequence>140</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>24</thread>
+  <message>[106894517 ns]		Package 16 with destination node 3 was transferred from node 2 to node 3.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.178365902Z</date>
+  <millis>1701612886178</millis>
+  <nanos>365902</nanos>
+  <sequence>139</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>26</thread>
+  <message>[106886412 ns]		Package 25 with destination node 6 was transferred from node 4 to node 5.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.178503775Z</date>
+  <millis>1701612886178</millis>
+  <nanos>503775</nanos>
+  <sequence>141</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[107042099 ns]		Package 9 with destination node 0 was transferred from node 8 to node 9.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.178684017Z</date>
+  <millis>1701612886178</millis>
+  <nanos>684017</nanos>
+  <sequence>142</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>22</thread>
+  <message>[107221258 ns]		Package 12 with destination node 2 was transferred from node 0 to node 1.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.179087228Z</date>
+  <millis>1701612886179</millis>
+  <nanos>87228</nanos>
+  <sequence>143</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[107602779 ns]		Package 0 with destination node 9 was transferred from node 6 to node 7.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.179428485Z</date>
+  <millis>1701612886179</millis>
+  <nanos>428485</nanos>
+  <sequence>144</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[107953574 ns]		Package 11 with destination node 8 was transferred from node 7 to node 8.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.179603627Z</date>
+  <millis>1701612886179</millis>
+  <nanos>603627</nanos>
+  <sequence>145</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>25</thread>
+  <message>[108132763 ns]		Package 16 with destination node 3 was transferred from node 3 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.179608065Z</date>
+  <millis>1701612886179</millis>
+  <nanos>608065</nanos>
+  <sequence>146</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>31</thread>
+  <message>[108126982 ns]		Package 9 with destination node 0 was transferred from node 9 to node 0.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.179754143Z</date>
+  <millis>1701612886179</millis>
+  <nanos>754143</nanos>
+  <sequence>147</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>23</thread>
+  <message>[108293308 ns]		Package 12 with destination node 2 was transferred from node 1 to node 2.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.179873052Z</date>
+  <millis>1701612886179</millis>
+  <nanos>873052</nanos>
+  <sequence>148</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>27</thread>
+  <message>[108405344 ns]		Package 25 with destination node 6 was transferred from node 5 to node 6.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.180090632Z</date>
+  <millis>1701612886180</millis>
+  <nanos>90632</nanos>
+  <sequence>149</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>25</thread>
+  <message>[108626571 ns]		Package 16 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.180263459Z</date>
+  <millis>1701612886180</millis>
+  <nanos>263459</nanos>
+  <sequence>150</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[108784000 ns]		Package 10 with destination node 9 was transferred from node 8 to node 9.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.180680546Z</date>
+  <millis>1701612886180</millis>
+  <nanos>680546</nanos>
+  <sequence>151</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[109199133 ns]		Package 1 with destination node 6 was transferred from node 6 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.180696856Z</date>
+  <millis>1701612886180</millis>
+  <nanos>696856</nanos>
+  <sequence>152</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>22</thread>
+  <message>[109210914 ns]		Package 9 with destination node 0 was transferred from node 0 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.180826073Z</date>
+  <millis>1701612886180</millis>
+  <nanos>826073</nanos>
+  <sequence>153</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>24</thread>
+  <message>[109364366 ns]		Package 12 with destination node 2 was transferred from node 2 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.181016864Z</date>
+  <millis>1701612886181</millis>
+  <nanos>16864</nanos>
+  <sequence>154</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[109543977 ns]		Package 6 with destination node 7 was transferred from node 7 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.181209137Z</date>
+  <millis>1701612886181</millis>
+  <nanos>209137</nanos>
+  <sequence>155</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>28</thread>
+  <message>[109745086 ns]		Package 1 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.181334338Z</date>
+  <millis>1701612886181</millis>
+  <nanos>334338</nanos>
+  <sequence>156</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>22</thread>
+  <message>[109876177 ns]		Package 9 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.181415947Z</date>
+  <millis>1701612886181</millis>
+  <nanos>415947</nanos>
+  <sequence>157</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>31</thread>
+  <message>[109951986 ns]		Package 10 with destination node 9 was transferred from node 9 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.182031479Z</date>
+  <millis>1701612886182</millis>
+  <nanos>31479</nanos>
+  <sequence>160</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>31</thread>
+  <message>[110560264 ns]		Package 10 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.182233219Z</date>
+  <millis>1701612886182</millis>
+  <nanos>233219</nanos>
+  <sequence>161</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[110756625 ns]		Package 11 with destination node 8 was transferred from node 8 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.181445432Z</date>
+  <millis>1701612886181</millis>
+  <nanos>445432</nanos>
+  <sequence>158</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>24</thread>
+  <message>[109988794 ns]		Package 12 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.181620323Z</date>
+  <millis>1701612886181</millis>
+  <nanos>620323</nanos>
+  <sequence>159</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>29</thread>
+  <message>[110150962 ns]		Package 6 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.183068575Z</date>
+  <millis>1701612886183</millis>
+  <nanos>68575</nanos>
+  <sequence>162</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[111523995 ns]		Package 28 with destination node 8 was transferred from node 6 to node 7.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.184178334Z</date>
+  <millis>1701612886184</millis>
+  <nanos>178334</nanos>
+  <sequence>163</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>30</thread>
+  <message>[112703824 ns]		Package 11 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.185594196Z</date>
+  <millis>1701612886185</millis>
+  <nanos>594196</nanos>
+  <sequence>164</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[114107553 ns]		Package 29 with destination node 8 was transferred from node 6 to node 7.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.187088672Z</date>
+  <millis>1701612886187</millis>
+  <nanos>88672</nanos>
+  <sequence>165</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>28</thread>
+  <message>[115606869 ns]		Package 25 with destination node 6 was transferred from node 6 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.187494128Z</date>
+  <millis>1701612886187</millis>
+  <nanos>494128</nanos>
+  <sequence>166</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>28</thread>
+  <message>[116027001 ns]		Package 25 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.188674246Z</date>
+  <millis>1701612886188</millis>
+  <nanos>674246</nanos>
+  <sequence>167</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[117188826 ns]		Package 8 with destination node 0 was transferred from node 7 to node 8.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.190142775Z</date>
+  <millis>1701612886190</millis>
+  <nanos>142775</nanos>
+  <sequence>168</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[118655982 ns]		Package 4 with destination node 8 was transferred from node 7 to node 8.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.191399475Z</date>
+  <millis>1701612886191</millis>
+  <nanos>399475</nanos>
+  <sequence>169</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[119910297 ns]		Package 8 with destination node 0 was transferred from node 8 to node 9.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.192506449Z</date>
+  <millis>1701612886192</millis>
+  <nanos>506449</nanos>
+  <sequence>170</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>31</thread>
+  <message>[121012533 ns]		Package 8 with destination node 0 was transferred from node 9 to node 0.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.192533469Z</date>
+  <millis>1701612886192</millis>
+  <nanos>533469</nanos>
+  <sequence>171</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[121056003 ns]		Package 0 with destination node 9 was transferred from node 7 to node 8.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.193375727Z</date>
+  <millis>1701612886193</millis>
+  <nanos>375727</nanos>
+  <sequence>172</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[121880288 ns]		Package 4 with destination node 8 was transferred from node 8 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.193898518Z</date>
+  <millis>1701612886193</millis>
+  <nanos>898518</nanos>
+  <sequence>174</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>30</thread>
+  <message>[122431621 ns]		Package 4 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.193594449Z</date>
+  <millis>1701612886193</millis>
+  <nanos>594449</nanos>
+  <sequence>173</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>22</thread>
+  <message>[122125508 ns]		Package 8 with destination node 0 was transferred from node 0 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.194396803Z</date>
+  <millis>1701612886194</millis>
+  <nanos>396803</nanos>
+  <sequence>175</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[122919307 ns]		Package 28 with destination node 8 was transferred from node 7 to node 8.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.195270940Z</date>
+  <millis>1701612886195</millis>
+  <nanos>270940</nanos>
+  <sequence>176</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>22</thread>
+  <message>[123798874 ns]		Package 8 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.196212841Z</date>
+  <millis>1701612886196</millis>
+  <nanos>212841</nanos>
+  <sequence>177</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>29</thread>
+  <message>[124720317 ns]		Package 29 with destination node 8 was transferred from node 7 to node 8.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.207634231Z</date>
+  <millis>1701612886207</millis>
+  <nanos>634231</nanos>
+  <sequence>178</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[136139062 ns]		Package 0 with destination node 9 was transferred from node 8 to node 9.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.208738620Z</date>
+  <millis>1701612886208</millis>
+  <nanos>738620</nanos>
+  <sequence>179</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>31</thread>
+  <message>[137248040 ns]		Package 0 with destination node 9 was transferred from node 9 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.209171105Z</date>
+  <millis>1701612886209</millis>
+  <nanos>171105</nanos>
+  <sequence>180</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>31</thread>
+  <message>[137706373 ns]		Package 0 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.210420882Z</date>
+  <millis>1701612886210</millis>
+  <nanos>420882</nanos>
+  <sequence>181</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[138920003 ns]		Package 28 with destination node 8 was transferred from node 8 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.210922614Z</date>
+  <millis>1701612886210</millis>
+  <nanos>922614</nanos>
+  <sequence>182</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>30</thread>
+  <message>[139455597 ns]		Package 28 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.215836184Z</date>
+  <millis>1701612886215</millis>
+  <nanos>836184</nanos>
+  <sequence>183</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageTransfer</method>
+  <thread>30</thread>
+  <message>[144341236 ns]		Package 29 with destination node 8 was transferred from node 8 to node 4.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.216618211Z</date>
+  <millis>1701612886216</millis>
+  <nanos>618211</nanos>
+  <sequence>184</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logPackageCollection</method>
+  <thread>30</thread>
+  <message>[145146326 ns]		Package 29 was collected.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.226899035Z</date>
+  <millis>1701612886226</millis>
+  <nanos>899035</nanos>
+  <sequence>185</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logAverageNetworkDelay</method>
+  <thread>1</thread>
+  <message>
+Average network delay time: 81919415.
+</message>
+</record>
+<record>
+  <date>2023-12-03T14:14:46.227852207Z</date>
+  <millis>1701612886227</millis>
+  <nanos>852207</nanos>
+  <sequence>186</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>org.example.LoggingVisitor</class>
+  <method>logAverageBufferDelay</method>
+  <thread>1</thread>
+  <message>
+Average buffer delay time: 22987135.
+</message>
+</record>
+</log>
